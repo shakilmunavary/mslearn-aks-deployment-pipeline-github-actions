@@ -28,6 +28,6 @@ jobs:
       - name: Run a one-line script
         run: cd $GITHUB_WORKSPACE
       - name: Run a one-line script
-        run: ls -ltr
+        run: cat init.sh
         
         
